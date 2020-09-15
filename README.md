@@ -1,7 +1,7 @@
 # Twitter_Sentiment_Analysis
 <ul>
   <li>Live streamed tweets by using tweepy library in Python and then performed Sentiment Analysis on them using Textblob library in Python.</li>
-  <li>Developed a dash application to visualize the sentiment results on a topic dynamically using Plotly</li>
+  <li>Developed a dash application to visualize the sentiment results on a topic searched by user dynamically using Plotly</li>
 </ul>
 <h2> References </h2><br>
 <ul>
